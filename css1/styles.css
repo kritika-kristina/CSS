@@ -1,0 +1,46 @@
+body{
+    background: gainsboro;
+}
+.title{
+    background-color: #4CAF50;
+    color: #ffffff;
+    font-family: 'Lato';
+    font-weight: bolder;
+    text-align: center;
+}
+main{
+    background-color: #ffffff;
+}
+h2{
+    color: #4CAF50;
+    font-family: 'Lato';
+    font-weight: bold;
+}
+.highlight{
+    background-color: yellow;
+    color: red;
+}
+#unique{
+    color: mediumblue;
+    font-size: medium;
+    font-weight: bold;
+}
+p{
+    font-family: 'Lato';
+}
+.degree{
+    font-family: 'Courier New', Courier, monospace;
+    color: #ff5722;
+}
+a{
+    color: #4CAF50;
+    font-family: 'Lato';
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+    color: red;
+}
+a:visited{
+    color: blue;
+}
